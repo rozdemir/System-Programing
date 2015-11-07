@@ -1,0 +1,9 @@
+Once "make" yapilmali
+
+
+sonra:
+./server fifoName
+
+Baska bir client ta gecilip
+
+./client fifoName waitSecondsNum operationName k1 k2 .. kn

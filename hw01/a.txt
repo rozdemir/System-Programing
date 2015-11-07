@@ -1,0 +1,135 @@
+﻿Galatasaray A.S
+D.Yarsuvat 123234453 01.01.1940 Turkiye
+H.Hamzaoglu 123464356 01.01.1960 Turkiye
+1
+Muslera 12673490 01.01.1990 Uruguay
+Sabri 12673491 02.01.1990 Türkiye
+Chedjoe 12673493 03.01.1990 Afrika
+Koray 12673494 04.01.1990 Türkiye
+A.Telles 12673495 05.01.1990 Brezilya
+Melo 12673496 06.01.1990 Brezilya
+Selcuk 12673497 07.01.1990 Türkiye
+Emre 12673498 08.01.1990 Türkiye
+Sneijder 12673499 09.01.1990 Hollanda
+Burak 126734910 10.01.1990 Türkiye
+Umut 126734911 11.01.1990 Türkiye
+Galatasaray A.S : 6  vs  4 : Fenerbahce  21.2.2016
+Galatasaray A.S : 1  vs  2 : Real Madrid  28.2.2016
+Galatasaray A.S : 5  vs  7 : Barcelona  5.2.2016
+Galatasaray A.S : 8  vs  5 : Beşiktaş A.Ş  12.3.2016
+Galatasaray A.S : 9  vs  8 : Trabzonspor  19.3.2016
+Fenerbahce : 7  vs  0 : Galatasaray A.S  21.2.2016
+Fenerbahce : 9  vs  4 : Real Madrid  28.2.2016
+Fenerbahce : 7  vs  5 : Barcelona  5.2.2016
+Fenerbahce : 0  vs  8 : Beşiktaş A.Ş  12.3.2016
+Fenerbahce : 2  vs  2 : Trabzonspor  19.3.2016
+Real Madrid : 3  vs  9 : Galatasaray A.S  21.2.2016
+Real Madrid : 0  vs  2 : Fenerbahce  28.2.2016
+Real Madrid : 0  vs  0 : Barcelona  5.2.2016
+Real Madrid : 4  vs  2 : Beşiktaş A.Ş  12.3.2016
+Real Madrid : 9  vs  1 : Trabzonspor  19.3.2016
+Barcelona : 5  vs  1 : Galatasaray A.S  21.2.2016
+Barcelona : 2  vs  8 : Fenerbahce  28.2.2016
+Barcelona : 9  vs  4 : Real Madrid  5.2.2016
+Barcelona : 1  vs  4 : Beşiktaş A.Ş  12.3.2016
+Barcelona : 9  vs  9 : Trabzonspor  19.3.2016
+Beşiktaş A.Ş : 2  vs  7 : Galatasaray A.S  21.2.2016
+Beşiktaş A.Ş : 5  vs  8 : Fenerbahce  28.2.2016
+Beşiktaş A.Ş : 8  vs  6 : Real Madrid  5.2.2016
+Beşiktaş A.Ş : 7  vs  5 : Barcelona  12.3.2016
+Beşiktaş A.Ş : 3  vs  7 : Trabzonspor  19.3.2016
+Trabzonspor : 6  vs  6 : Galatasaray A.S  21.2.2016
+Trabzonspor : 0  vs  3 : Fenerbahce  28.2.2016
+Trabzonspor : 6  vs  3 : Real Madrid  5.2.2016
+Trabzonspor : 6  vs  9 : Barcelona  12.3.2016
+Trabzonspor : 5  vs  1 : Beşiktaş A.Ş  19.3.2016
+Trabzonspor : 7  vs  9 : Trabzonspor  26.3.2016
+galatasaray vs fenerbahce   Match date  21.2.2015
+galatasaray vs realmadrid   Match date  28.2.2015
+galatasaray vs barcelona   Match date  5.2.2015
+galatasaray vs besiktas   Match date  12.3.2015
+galatasaray vs trabzon   Match date  19.3.2015
+galatasaray vs Chelsea   Match date  26.3.2015
+fenerbahce vs galatasaray   Match date  21.2.2015
+fenerbahce vs realmadrid   Match date  28.2.2015
+fenerbahce vs barcelona   Match date  5.2.2015
+fenerbahce vs besiktas   Match date  12.3.2015
+fenerbahce vs trabzon   Match date  19.3.2015
+fenerbahce vs Chelsea   Match date  26.3.2015
+realmadrid vs galatasaray   Match date  21.2.2015
+realmadrid vs fenerbahce   Match date  28.2.2015
+realmadrid vs barcelona   Match date  5.2.2015
+realmadrid vs besiktas   Match date  12.3.2015
+realmadrid vs trabzon   Match date  19.3.2015
+realmadrid vs Chelsea   Match date  26.3.2015
+barcelona vs galatasaray   Match date  21.2.2015
+barcelona vs fenerbahce   Match date  28.2.2015
+barcelona vs realmadrid   Match date  5.2.2015
+barcelona vs besiktas   Match date  12.3.2015
+barcelona vs trabzon   Match date  19.3.2015
+barcelona vs Chelsea   Match date  26.3.2015
+besiktas vs galatasaray   Match date  21.2.2015
+besiktas vs fenerbahce   Match date  28.2.2015
+besiktas vs realmadrid   Match date  5.2.2015
+besiktas vs barcelona   Match date  12.3.2015
+besiktas vs trabzon   Match date  19.3.2015
+besiktas vs Chelsea   Match date  26.3.2015
+trabzon vs galatasaray   Match date  21.2.2015
+trabzon vs fenerbahce   Match date  28.2.2015
+trabzon vs realmadrid   Match date  5.2.2015
+trabzon vs barcelona   Match date  12.3.2015
+trabzon vs besiktas   Match date  19.3.2015
+trabzon vs Chelsea   Match date  26.3.2015
+Chelsea vs galatasaray   Match date  21.2.2015
+Chelsea vs fenerbahce   Match date  28.2.2015
+Chelsea vs realmadrid   Match date  5.2.2015
+Chelsea vs barcelona   Match date  12.3.2015
+Chelsea vs besiktas   Match date  19.3.2015
+Chelsea vs trabzon   Match date  26.3.2015
+Chelsea vs Chelsea   Match date  3.3.2015
+Galatasaray A.S : 1  vs  4 : Fenerbahce  21.2.2017
+Galatasaray A.S : 5  vs  4 : Real Madrid  28.2.2017
+Galatasaray A.S : 6  vs  0 : Barcelona  5.2.2017
+Galatasaray A.S : 4  vs  0 : Beşiktaş A.Ş  12.3.2017
+Galatasaray A.S : 4  vs  8 : Trabzonspor  19.3.2017
+Fenerbahce : 3  vs  3 : Galatasaray A.S  21.2.2017
+Fenerbahce : 2  vs  3 : Real Madrid  28.2.2017
+Fenerbahce : 6  vs  0 : Barcelona  5.2.2017
+Fenerbahce : 6  vs  9 : Beşiktaş A.Ş  12.3.2017
+Fenerbahce : 3  vs  8 : Trabzonspor  19.3.2017
+Real Madrid : 6  vs  5 : Galatasaray A.S  21.2.2017
+Real Madrid : 0  vs  3 : Fenerbahce  28.2.2017
+Real Madrid : 1  vs  2 : Barcelona  5.2.2017
+Real Madrid : 1  vs  6 : Beşiktaş A.Ş  12.3.2017
+Real Madrid : 0  vs  0 : Trabzonspor  19.3.2017
+Barcelona : 9  vs  6 : Galatasaray A.S  21.2.2017
+Barcelona : 9  vs  9 : Fenerbahce  28.2.2017
+Barcelona : 6  vs  5 : Real Madrid  5.2.2017
+Barcelona : 6  vs  2 : Beşiktaş A.Ş  12.3.2017
+Barcelona : 5  vs  8 : Trabzonspor  19.3.2017
+Beşiktaş A.Ş : 0  vs  0 : Galatasaray A.S  21.2.2017
+Beşiktaş A.Ş : 3  vs  7 : Fenerbahce  28.2.2017
+Beşiktaş A.Ş : 9  vs  6 : Real Madrid  5.2.2017
+Beşiktaş A.Ş : 4  vs  8 : Barcelona  12.3.2017
+Beşiktaş A.Ş : 1  vs  2 : Trabzonspor  19.3.2017
+Trabzonspor : 0  vs  3 : Galatasaray A.S  21.2.2017
+Trabzonspor : 5  vs  4 : Fenerbahce  28.2.2017
+Trabzonspor : 9  vs  0 : Real Madrid  5.2.2017
+Trabzonspor : 9  vs  6 : Barcelona  12.3.2017
+Trabzonspor : 0  vs  2 : Beşiktaş A.Ş  19.3.2017
+Trabzonspor : 4  vs  0 : Trabzonspor  26.3.2017
+barcelona
+S.Rosell 34542342564 15.05.1963 Ispanya
+L.Martinez 43342342354 12.12.1975 Hollanda
+3
+C.Brovo 1234567890 14.03.1994 Amerika
+J.Mascherano 2345678903 15.03.1994 Arjantin
+J.Alba 123432434567 16.03.1994 Ispanya
+D.Alves 23489645312 17.03.1994 Brezilya
+G.Pique 345678543236 18.03.1994 Ispanya
+I.Rakitic 34345476832 19.03.1994 Hırvatistan
+S.Busquets 3456587985 20.03.1994 Ispanya
+A.Iniesta 34245456768 21.03.1994 Ispanya
+Messi 34543567567 22.03.1994 Arjantin
+Neymar 232456 23.03.1994 Brezilya
+Suarez 34567687698 24.03.1994 Uruguay

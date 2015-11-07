@@ -1,0 +1,3 @@
+all:
+	gcc hw02.c -o hw02
+
